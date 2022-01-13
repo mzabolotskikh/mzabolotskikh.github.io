@@ -2195,6 +2195,11 @@ button,
   #footer .copyright a {
     color: inherit; }
 
+.nameheader {
+  color: #9fa3a6;
+  font-size: 0.9em; 
+text-align: right;}
+
 /* Menu */
 #menu ul {
   -moz-user-select: none;
@@ -2305,3 +2310,11 @@ div.pagelinks a {
 p.emph {
   border-left: solid 2px rgba(210, 215, 217, 0.75);
   padding: 0.5em 0 0.5em 2em; }
+
+p.reminder {
+  font-style: italic;
+  margin-top: 2em;
+  text-align: center;
+  background-color:ghostwhite;
+  padding: 1em;
+}

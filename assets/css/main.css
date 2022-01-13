@@ -1810,9 +1810,9 @@ input, select, textarea {
 
 	@media screen and (max-width: 980px) {
 
-		header br {
+		/* header br {
 			display: none;
-		}
+		} */
 
 	}
 
@@ -3720,9 +3720,9 @@ input, select, textarea {
 					font-size: 1.25em;
 				}
 
-				#banner br {
+				/* #banner br {
 					display: none;
-				}
+				} */
 
 				#banner .more {
 					display: none;
