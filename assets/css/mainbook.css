@@ -2299,12 +2299,12 @@ div.content {
 }
 
 div.pagelinks {
-  margin-top: 2em;
+  margin-top: 1em;
   text-align: center;
 }
 
 div.pagelinks a {
-  margin-right: 25px;;
+  margin: 10px;
 }
 
 p.emph {
@@ -2317,4 +2317,8 @@ p.reminder {
   text-align: center;
   background-color:ghostwhite;
   padding: 1em;
+}
+
+#vk_comments {
+  margin-top: 2em;
 }
